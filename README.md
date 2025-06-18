@@ -39,7 +39,7 @@ pip3 install vaderSentiment matplotlib pandas
 Run the following command and follow the prompt:
 
 ```bash
-python main.py
+python3 main.py
 ```
 
 - Type your entry.  
@@ -54,7 +54,7 @@ Your entries are saved in `journal.txt`.
 To visualize your emotional healing over time:
 
 ```bash
-python analyzer.py
+python3 analyzer.py
 ```
 
 A graph will pop up, showing your sentiment scores for each entry
