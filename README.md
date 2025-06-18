@@ -19,7 +19,7 @@ Dont forget to add your own journal.txt file
 Clone the repo and set up your virtual environment:
 
 ```bash
-git clone https://github.com/yourusername/breakup-journal.git
+git clone https://github.com/Rush1120/thebreakupproject
 cd breakup-journal
 python3 -m venv venv
 source venv/bin/activate
@@ -29,7 +29,7 @@ pip install -r requirements.txt
 If you don't have a `requirements.txt`, install dependencies manually:
 
 ```bash
-pip install vaderSentiment matplotlib pandas
+pip3 install vaderSentiment matplotlib pandas
 ```
 
 ---
