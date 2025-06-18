@@ -20,7 +20,7 @@ Clone the repo and set up your virtual environment:
 
 ```bash
 git clone https://github.com/Rush1120/thebreakupproject
-cd breakup-journal
+cd thebreakupproject
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
