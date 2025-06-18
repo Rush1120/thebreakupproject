@@ -3,7 +3,7 @@
 A terminal-based journaling and emotional progress tracker, built to help you process through code. lol.
 
 No fancy UI. No cloud sync. Just your thoughts in a text file, and a graph that shows you're getting better  even when it doesn't feel like it.
-
+Dont forget to add your own journal.txt file
 ---
 
 ## Requirements
