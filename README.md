@@ -88,7 +88,7 @@ Your entries are stored **locally** in `journal.txt`. Nothing is uploaded or sha
 
 ---
 
-## 📬 Contributing
+##  Contributing
 
 Pull requests and issues are welcome fr
 
