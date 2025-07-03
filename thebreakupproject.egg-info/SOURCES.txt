@@ -1,0 +1,10 @@
+README.md
+setup.py
+breakup_journal/__init__.py
+breakup_journal/main.py
+thebreakupproject.egg-info/PKG-INFO
+thebreakupproject.egg-info/SOURCES.txt
+thebreakupproject.egg-info/dependency_links.txt
+thebreakupproject.egg-info/entry_points.txt
+thebreakupproject.egg-info/requires.txt
+thebreakupproject.egg-info/top_level.txt

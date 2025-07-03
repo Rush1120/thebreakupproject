@@ -1,0 +1,20 @@
+Metadata-Version: 2.4
+Name: thebreakupproject
+Version: 0.1.0
+Summary: A terminal-based breakup journal with emotion tracking.
+Home-page: https://github.com/Rush1120/thebreakupproject
+Author: Rushikalia
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Requires-Dist: textblob
+Requires-Dist: matplotlib
+Requires-Dist: scikit-learn
+Dynamic: author
+Dynamic: classifier
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary

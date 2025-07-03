@@ -15,8 +15,11 @@ def write_entry():
         file.write(f"\n[{datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')}]\n{entry}\n")
     print("\nEntry saved.\n")
 
-if __name__ == "__main__":
+def main():
     write_entry()
+
+if __name__ == "__main__":
+    main()
 
 
 
