@@ -1,4 +1,22 @@
-venv/
-__pycache__/
 journal.txt
 
+thebreakupproject.egg-info/*
+
+# removes duplicates
+*.bak
+*~
+*" 2"
+*" 2.py"
+
+venv/
+
+__pycache__/
+*.py[cod]
+*.class
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.tox/
+.nox/
