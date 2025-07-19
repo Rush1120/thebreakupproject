@@ -11,7 +11,7 @@ setup(
     ],
     entry_points={
         'console_scripts': [
-            'breakup-journal=breakup_journal.main:main'
+            'breakup-journal=breakup_journal.main:main' 
         ]
     },
     author='Rushikalia',
